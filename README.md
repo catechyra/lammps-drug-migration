@@ -1,2 +1,2 @@
 # lammps-drug-migration
-equilibrium, production. analysis
+equilibrium, production, analysis
